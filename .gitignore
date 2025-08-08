@@ -1,0 +1,2 @@
+# Ignore large binary files in the whisper/ directory
+whisper/
