@@ -1,0 +1,23 @@
+{
+    "version": "r245.4",
+    "artifacts": {
+        "windows-x86_64": {
+            "url": "https://github.com/guimas-solucoes/tiktok-viral-pro-shared/whisper/Faster-Whisper-XXL_r245.4_windows.7z",
+            "sha256": "237dee23939cdabfc96ef859fc5e584b842c3a5557e0d2ca744e1f87c14c5844",
+            "archive": "7z",
+            "entrypoint": "faster-whisper-xxl.exe"
+        },
+        "linux-x86_64": {
+            "url": "https://github.com/guimas-solucoes/tiktok-viral-pro-shared/whisper/Faster-Whisper-XXL_r245.4_linux.7z",
+            "sha256": "510ee48ed73a7d4779fa8a7531437513ae109a76d934e983cbdaea3fc248c4f4",
+            "archive": "7z",
+            "entrypoint": "faster-whisper-xxl"
+        },
+        "macos-x86_64": {
+            "url": "https://github.com/guimas-solucoes/tiktok-viral-pro-shared/whisper/Whisper-Faster_r186.1_macOS-x86-64.zip",
+            "sha256": "863e9d41cd889bfd5417bec5d8d48f04d0a0e6c97b6f45c7910a85e08798a3bc",
+            "archive": "zip",
+            "entrypoint": "whisper-faster"
+        }
+    }
+}
