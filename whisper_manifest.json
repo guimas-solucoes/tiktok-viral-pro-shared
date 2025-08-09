@@ -3,7 +3,7 @@
     "artifacts": {
         "windows-x86_64": {
             "url": "https://github.com/guimas-solucoes/tiktok-viral-pro-shared/releases/download/v1.0.0/Faster-Whisper-XXL_r245.4_windows.7z",
-            "sha256": "fa3e939b57c75d0712726f6089e4aefa2afca2f640984fd79ae41cd38a1c7bdc",
+            "sha256": "a1bef4a6be3ede3c4587b39d7b9028e436dc5d8cb6c6f90ba934aa0b3506f730",
             "archive": "7z",
             "entrypoint": "faster-whisper-xxl.exe"
         },
